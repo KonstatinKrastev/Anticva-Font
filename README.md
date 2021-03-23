@@ -13,6 +13,8 @@ Antiqua is a serif font inspired by the Latin Renaissance Antiqua font. In chara
 **Language Support**
 Bulgarian 
 
+At the moment Anticva supports only Bulgarian language, but in the next version we will cover ISO Latin 1 Character Encoding. 
+
 ## ChangeLog
 
 This is version 1.000.
