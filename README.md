@@ -8,7 +8,7 @@ Anticva is a serif font designed by Konstantin Krastev.
 
 
 # Basic Information
-Antiqua is a serif font inspired by the Latin Renaissance Antiqua font. In character and proportions this font is very close to "Renaissance Antiqua", but the serifs are more elongated and there is a significant difference in the letters A, L, D, M with their serif upper elements.
+Antiqua is a serif font inspired by the Latin "Renaissance Antiqua" font. In character and proportions this font is very close to "Renaissance Antiqua", but the serifs are more elongated and there is a significant difference in the letters A, L, D, M with their serif upper elements.
 
 **Language Support**
 Bulgarian 
