@@ -10,16 +10,15 @@ Anticva is a serif font designed by Konstantin Krastev.
 
 
 # Basic Information
-Antiqua is a serif font inspired by the Latin "Renaissance Antiqua" font. In character and proportions this font is very close to "Renaissance Antiqua", but the serifs are more elongated and there is a significant difference in the letters A, L, D, M with their serif upper elements.
+Antiqua is a serif font inspired by the Latin "Roman Capitals" font. In character and proportions this font is very close to "Roman Capitals", but the serifs are more elongated and there is a significant difference in the letters A, L, D, M with their serif upper elements.
 
 **Language Support**
-Bulgarian 
+Afrikaans Albanian Basque Breton Bulgarian, Corsican, English, Faroese, Galician, Icelandic, Irish, Indonesian, Italian, Leonese, Luxembourgish, Malay, Manx, Norwegian, Occitan, Portuguese, Rhaeto-Romanic, Scottish Gaelic, Scots, Southern Sami, Spanish, Swahili, Swedish, Tagalog, Walloon
 
-At the moment Anticva supports only Bulgarian language, but in the next version we will cover ISO Latin 1 Character Encoding. 
 
 ## ChangeLog
 
-This is version 1.000.
+This is version 1.100.
 
 # License
 
