@@ -18,7 +18,7 @@ Afrikaans Albanian Basque Breton Bulgarian, Corsican, English, Faroese, Galician
 
 ## ChangeLog
 
-This is version 1.100.
+This is version 1.1.
 
 # License
 
