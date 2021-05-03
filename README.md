@@ -5,8 +5,8 @@ Anticva is a serif font designed by Konstantin Krastev.
 ![](Documentation/anticva-01.png) 
 ![](Documentation/anticva-02.png)
 ![](Documentation/anticva-03.png)
-![](Documentation/anticva-04.png)
-![](Documentation/anticva-05.png)
+![](Documentation/anticva-4.png)
+![](Documentation/anticva-5.png)
 
 
 # Basic Information
